@@ -1,0 +1,2 @@
+# myGJ
+my git journal
