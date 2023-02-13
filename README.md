@@ -1,11 +1,11 @@
-# What it is?
+# what it is?
 
 It is a private hub of my GitJournal which collect all records from various equipment(Github endpoints,Obsidian app on linux,GitJournal app on android)
 
 #What are the contents or records?
 They are only daily todo list or trivals notes with little privacy.In the future I might keep records of some daily thoughts which is worth being shared or spread. 
 
-# why do this instead of bloging? 
+# why this? 
 
 I just want to write down my notes of thoughts  wherever I want， so I sync data among different platform with GH repo. Now I can read or write wherever I want.
 
