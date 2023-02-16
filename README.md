@@ -12,6 +12,8 @@ I just want to write down my notes of thoughts  wherever I want， so I sync dat
 
 # how to？
 
-1.set up Obsidian on computer, then install an adds-on of git which enable git action (you can set it to auto pull and push in a desired patterns) 
-2.Use GitJournal on Phone and set specified config for synchroning with Github page.
-3.In both GitJournal and Obsidian, you have to register the public keys for synchroning with Github.
+1. set up Obsidian on computer, then install an adds-on of git which enable git action (you can set it to auto pull and push in a desired patterns) 
+
+2. Use GitJournal on Phone and set specified config for synchroning with Github page.
+
+3. For both GitJournal and Obsidian, you have to register the public keys for synchroning with Github.
