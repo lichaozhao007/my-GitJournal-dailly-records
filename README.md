@@ -1,4 +1,4 @@
-# what about?
+# ReadMe
 
 It is a private hub of my GitJournal which collect all records from various equipment(Github endpoints,Obsidian app on linux,GitJournal app on android)
 
